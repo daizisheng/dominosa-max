@@ -1,0 +1,3625 @@
+{
+ "n": 5,
+ "M": 23929,
+ "computed_with_threshold": 23929,
+ "sets": [
+  {
+   "B": [],
+   "size": 0,
+   "U": 31529,
+   "dangerous": true,
+   "orbit_size": 1,
+   "nclasses": 1,
+   "class_sizes_top10": [
+    31529
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    1
+   ],
+   "size": 1,
+   "U": 25912,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 2,
+   "class_sizes_top10": [
+    24142,
+    7387
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    2
+   ],
+   "size": 1,
+   "U": 24472,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 2,
+   "class_sizes_top10": [
+    21074,
+    10455
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6
+   ],
+   "size": 1,
+   "U": 27148,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 2,
+   "class_sizes_top10": [
+    26465,
+    5064
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7
+   ],
+   "size": 1,
+   "U": 29451,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 3,
+   "class_sizes_top10": [
+    29076,
+    1770,
+    683
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    8
+   ],
+   "size": 1,
+   "U": 28769,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 3,
+   "class_sizes_top10": [
+    27808,
+    3398,
+    323
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    13
+   ],
+   "size": 1,
+   "U": 27101,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 3,
+   "class_sizes_top10": [
+    24002,
+    7475,
+    52
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    14
+   ],
+   "size": 1,
+   "U": 25812,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 4,
+   "class_sizes_top10": [
+    20088,
+    11418,
+    22,
+    1
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    1,
+    7
+   ],
+   "size": 2,
+   "U": 25281,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 4,
+   "class_sizes_top10": [
+    23459,
+    5617,
+    1770,
+    683
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    1,
+    9
+   ],
+   "size": 2,
+   "U": 24470,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 5,
+   "class_sizes_top10": [
+    21869,
+    5939,
+    1950,
+    1448,
+    323
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    1,
+    10
+   ],
+   "size": 2,
+   "U": 24512,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 6,
+   "class_sizes_top10": [
+    22200,
+    6876,
+    1552,
+    390,
+    293,
+    218
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    1,
+    19
+   ],
+   "size": 2,
+   "U": 24542,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 6,
+   "class_sizes_top10": [
+    22544,
+    6532,
+    988,
+    782,
+    610,
+    73
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    1,
+    20
+   ],
+   "size": 2,
+   "U": 23940,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 6,
+   "class_sizes_top10": [
+    21020,
+    6788,
+    2960,
+    438,
+    162,
+    161
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    1,
+    21
+   ],
+   "size": 2,
+   "U": 24258,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 6,
+   "class_sizes_top10": [
+    21587,
+    6221,
+    2268,
+    1130,
+    287,
+    36
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    1,
+    22
+   ],
+   "size": 2,
+   "U": 24530,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 6,
+   "class_sizes_top10": [
+    22212,
+    6864,
+    1482,
+    448,
+    288,
+    235
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    2,
+    8
+   ],
+   "size": 2,
+   "U": 24171,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 4,
+   "class_sizes_top10": [
+    20751,
+    7057,
+    3398,
+    323
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    7
+   ],
+   "size": 2,
+   "U": 25701,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 4,
+   "class_sizes_top10": [
+    24695,
+    4381,
+    1770,
+    683
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    8
+   ],
+   "size": 2,
+   "U": 25530,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 5,
+   "class_sizes_top10": [
+    24058,
+    3750,
+    2084,
+    1314,
+    323
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    9
+   ],
+   "size": 2,
+   "U": 24984,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 6,
+   "class_sizes_top10": [
+    23173,
+    4635,
+    3096,
+    302,
+    196,
+    127
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    10
+   ],
+   "size": 2,
+   "U": 25662,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 6,
+   "class_sizes_top10": [
+    24500,
+    4576,
+    1342,
+    623,
+    428,
+    60
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    16
+   ],
+   "size": 2,
+   "U": 24094,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 6,
+   "class_sizes_top10": [
+    20457,
+    5960,
+    3545,
+    1515,
+    48,
+    4
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    18
+   ],
+   "size": 2,
+   "U": 25133,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 4,
+   "class_sizes_top10": [
+    23025,
+    3440,
+    3440,
+    1624
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    19
+   ],
+   "size": 2,
+   "U": 25408,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 5,
+   "class_sizes_top10": [
+    24284,
+    4792,
+    1770,
+    411,
+    272
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    20
+   ],
+   "size": 2,
+   "U": 25306,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 5,
+   "class_sizes_top10": [
+    23676,
+    4132,
+    2466,
+    932,
+    323
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    21
+   ],
+   "size": 2,
+   "U": 25028,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 6,
+   "class_sizes_top10": [
+    23163,
+    4645,
+    3074,
+    324,
+    228,
+    95
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    22
+   ],
+   "size": 2,
+   "U": 25660,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 6,
+   "class_sizes_top10": [
+    24466,
+    4610,
+    1380,
+    619,
+    390,
+    64
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    8
+   ],
+   "size": 2,
+   "U": 27563,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 5,
+   "class_sizes_top10": [
+    26361,
+    2715,
+    1447,
+    683,
+    323
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    9
+   ],
+   "size": 2,
+   "U": 27283,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 7,
+   "class_sizes_top10": [
+    26046,
+    2774,
+    1146,
+    624,
+    616,
+    256,
+    67
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    10
+   ],
+   "size": 2,
+   "U": 27661,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 8,
+   "class_sizes_top10": [
+    26911,
+    1610,
+    1610,
+    555,
+    555,
+    128,
+    128,
+    32
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    13
+   ],
+   "size": 2,
+   "U": 26181,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 5,
+   "class_sizes_top10": [
+    23371,
+    5705,
+    1770,
+    631,
+    52
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    15
+   ],
+   "size": 2,
+   "U": 24506,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 8,
+   "class_sizes_top10": [
+    18837,
+    10223,
+    1195,
+    677,
+    574,
+    16,
+    6,
+    1
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    16
+   ],
+   "size": 2,
+   "U": 25539,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 8,
+   "class_sizes_top10": [
+    22064,
+    6972,
+    1566,
+    372,
+    311,
+    192,
+    40,
+    12
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    19
+   ],
+   "size": 2,
+   "U": 28037,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 7,
+   "class_sizes_top10": [
+    27168,
+    1328,
+    1328,
+    580,
+    580,
+    442,
+    103
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    20
+   ],
+   "size": 2,
+   "U": 27079,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 7,
+   "class_sizes_top10": [
+    25713,
+    3142,
+    1668,
+    427,
+    256,
+    221,
+    102
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    21
+   ],
+   "size": 2,
+   "U": 27107,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 7,
+   "class_sizes_top10": [
+    25808,
+    2976,
+    1348,
+    652,
+    422,
+    292,
+    31
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    22
+   ],
+   "size": 2,
+   "U": 27665,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 8,
+   "class_sizes_top10": [
+    26841,
+    1643,
+    1643,
+    592,
+    592,
+    91,
+    91,
+    36
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    8,
+    9
+   ],
+   "size": 2,
+   "U": 26489,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 5,
+   "class_sizes_top10": [
+    24733,
+    3075,
+    3075,
+    323,
+    323
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    8,
+    13
+   ],
+   "size": 2,
+   "U": 24341,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 5,
+   "class_sizes_top10": [
+    20656,
+    7152,
+    3346,
+    323,
+    52
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    8,
+    14
+   ],
+   "size": 2,
+   "U": 24812,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 6,
+   "class_sizes_top10": [
+    19787,
+    8021,
+    3397,
+    301,
+    22,
+    1
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    8,
+    16
+   ],
+   "size": 2,
+   "U": 25413,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 7,
+   "class_sizes_top10": [
+    21815,
+    5948,
+    1871,
+    1527,
+    316,
+    45,
+    7
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    8,
+    20
+   ],
+   "size": 2,
+   "U": 27117,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 7,
+   "class_sizes_top10": [
+    25202,
+    2326,
+    2326,
+    1072,
+    280,
+    280,
+    43
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    8,
+    21
+   ],
+   "size": 2,
+   "U": 26265,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 7,
+   "class_sizes_top10": [
+    24341,
+    3271,
+    3271,
+    196,
+    196,
+    127,
+    127
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    13,
+    15
+   ],
+   "size": 2,
+   "U": 23950,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 8,
+   "class_sizes_top10": [
+    17042,
+    6940,
+    4478,
+    2996,
+    50,
+    20,
+    2,
+    1
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    1,
+    7,
+    9
+   ],
+   "size": 3,
+   "U": 23951,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 9,
+   "class_sizes_top10": [
+    21253,
+    4793,
+    1950,
+    1146,
+    824,
+    624,
+    616,
+    256,
+    67
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    1,
+    7,
+    10
+   ],
+   "size": 3,
+   "U": 23993,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 11,
+   "class_sizes_top10": [
+    21645,
+    5266,
+    1610,
+    1424,
+    555,
+    390,
+    186,
+    165,
+    128,
+    128
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    1,
+    7,
+    19
+   ],
+   "size": 3,
+   "U": 24013,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 10,
+   "class_sizes_top10": [
+    21964,
+    5204,
+    1328,
+    988,
+    580,
+    507,
+    442,
+    340,
+    103,
+    73
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    1,
+    7,
+    22
+   ],
+   "size": 3,
+   "U": 24009,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 11,
+   "class_sizes_top10": [
+    21620,
+    5221,
+    1643,
+    1391,
+    592,
+    448,
+    252,
+    144,
+    91,
+    91
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    7,
+    8
+   ],
+   "size": 3,
+   "U": 24384,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 7,
+   "class_sizes_top10": [
+    22611,
+    3750,
+    2084,
+    1447,
+    683,
+    631,
+    323
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    7,
+    9
+   ],
+   "size": 3,
+   "U": 24017,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 10,
+   "class_sizes_top10": [
+    22027,
+    4019,
+    2472,
+    1146,
+    624,
+    616,
+    302,
+    196,
+    67,
+    60
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    7,
+    10
+   ],
+   "size": 3,
+   "U": 24391,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 11,
+   "class_sizes_top10": [
+    22890,
+    4021,
+    1610,
+    1310,
+    555,
+    495,
+    300,
+    128,
+    128,
+    60
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    7,
+    19
+   ],
+   "size": 3,
+   "U": 24523,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 9,
+   "class_sizes_top10": [
+    22956,
+    4212,
+    1328,
+    1328,
+    580,
+    442,
+    411,
+    169,
+    103
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    7,
+    20
+   ],
+   "size": 3,
+   "U": 23977,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 9,
+   "class_sizes_top10": [
+    22008,
+    3705,
+    2466,
+    1668,
+    676,
+    427,
+    256,
+    221,
+    102
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    7,
+    21
+   ],
+   "size": 3,
+   "U": 23957,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 10,
+   "class_sizes_top10": [
+    21815,
+    3993,
+    2652,
+    1348,
+    652,
+    422,
+    324,
+    228,
+    64,
+    31
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    7,
+    22
+   ],
+   "size": 3,
+   "U": 24395,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 11,
+   "class_sizes_top10": [
+    22823,
+    4018,
+    1643,
+    1344,
+    592,
+    528,
+    299,
+    91,
+    91,
+    64
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    8,
+    10
+   ],
+   "size": 3,
+   "U": 24412,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 12,
+   "class_sizes_top10": [
+    22540,
+    3506,
+    1704,
+    1070,
+    962,
+    556,
+    380,
+    256,
+    244,
+    184
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    8,
+    19
+   ],
+   "size": 3,
+   "U": 23998,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 11,
+   "class_sizes_top10": [
+    22081,
+    3632,
+    1982,
+    1668,
+    1160,
+    309,
+    221,
+    154,
+    118,
+    102
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    8,
+    20
+   ],
+   "size": 3,
+   "U": 24304,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 11,
+   "class_sizes_top10": [
+    21924,
+    3278,
+    1854,
+    1472,
+    854,
+    612,
+    472,
+    460,
+    280,
+    280
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    8,
+    22
+   ],
+   "size": 3,
+   "U": 24282,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 12,
+   "class_sizes_top10": [
+    22342,
+    3466,
+    1832,
+    1144,
+    1128,
+    588,
+    292,
+    252,
+    220,
+    170
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    9,
+    10
+   ],
+   "size": 3,
+   "U": 24146,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 10,
+   "class_sizes_top10": [
+    22027,
+    4334,
+    2473,
+    1146,
+    623,
+    301,
+    242,
+    196,
+    127,
+    60
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    10,
+    19
+   ],
+   "size": 3,
+   "U": 24154,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 13,
+   "class_sizes_top10": [
+    22493,
+    4348,
+    1643,
+    1259,
+    532,
+    384,
+    364,
+    228,
+    91,
+    60
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    10,
+    20
+   ],
+   "size": 3,
+   "U": 24092,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 12,
+   "class_sizes_top10": [
+    22024,
+    3784,
+    2184,
+    1060,
+    792,
+    592,
+    292,
+    288,
+    282,
+    140
+   ],
+   "realizable_class_sizes": [
+    22024
+   ],
+   "sum_realizable": 22024,
+   "best": 22024,
+   "best_collection": [
+    22024
+   ],
+   "best_witness": "0021511/0252101/0422230/4442333/5413435/0541355",
+   "best_witness_count": 22024,
+   "settled": "sum",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    10,
+    22
+   ],
+   "size": 3,
+   "U": 24634,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 14,
+   "class_sizes_top10": [
+    22920,
+    4248,
+    1056,
+    1018,
+    528,
+    524,
+    324,
+    310,
+    272,
+    118
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    19,
+    20
+   ],
+   "size": 3,
+   "U": 24132,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 8,
+   "class_sizes_top10": [
+    22229,
+    4132,
+    2055,
+    1447,
+    660,
+    411,
+    323,
+    272
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    19,
+    22
+   ],
+   "size": 3,
+   "U": 24148,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 13,
+   "class_sizes_top10": [
+    22519,
+    4392,
+    1610,
+    1274,
+    491,
+    337,
+    336,
+    218,
+    128,
+    74
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    20,
+    22
+   ],
+   "size": 3,
+   "U": 24230,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 12,
+   "class_sizes_top10": [
+    22188,
+    3858,
+    2022,
+    936,
+    752,
+    552,
+    444,
+    256,
+    210,
+    180
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    21,
+    22
+   ],
+   "size": 3,
+   "U": 24172,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 10,
+   "class_sizes_top10": [
+    22011,
+    4350,
+    2455,
+    1152,
+    619,
+    295,
+    260,
+    228,
+    95,
+    64
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    8,
+    9
+   ],
+   "size": 3,
+   "U": 25579,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 9,
+   "class_sizes_top10": [
+    23587,
+    2774,
+    2459,
+    1146,
+    616,
+    323,
+    301,
+    256,
+    67
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    8,
+    10
+   ],
+   "size": 3,
+   "U": 26141,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 12,
+   "class_sizes_top10": [
+    24692,
+    2219,
+    1354,
+    1114,
+    555,
+    555,
+    496,
+    256,
+    128,
+    67
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    8,
+    13
+   ],
+   "size": 3,
+   "U": 24027,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 7,
+   "class_sizes_top10": [
+    20656,
+    5705,
+    2715,
+    1447,
+    631,
+    323,
+    52
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    8,
+    16
+   ],
+   "size": 3,
+   "U": 24467,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 12,
+   "class_sizes_top10": [
+    20565,
+    5756,
+    1499,
+    1250,
+    1216,
+    372,
+    316,
+    311,
+    192,
+    40
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    8,
+    19
+   ],
+   "size": 3,
+   "U": 26329,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 11,
+   "class_sizes_top10": [
+    24606,
+    2562,
+    1328,
+    1107,
+    580,
+    427,
+    340,
+    221,
+    153,
+    103
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    8,
+    20
+   ],
+   "size": 3,
+   "U": 26011,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 11,
+   "class_sizes_top10": [
+    23814,
+    2326,
+    1899,
+    1388,
+    816,
+    427,
+    280,
+    256,
+    221,
+    59
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    8,
+    21
+   ],
+   "size": 3,
+   "U": 25315,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 11,
+   "class_sizes_top10": [
+    23189,
+    2976,
+    2619,
+    1152,
+    652,
+    295,
+    196,
+    196,
+    127,
+    96
+   ],
+   "realizable_class_sizes": [
+    23189
+   ],
+   "sum_realizable": 23189,
+   "best": 23189,
+   "best_collection": [
+    23189
+   ],
+   "best_witness": "0222350/3023525/0045551/0424510/4443121/1433311",
+   "best_witness_count": 23189,
+   "settled": "sum",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    8,
+    22
+   ],
+   "size": 3,
+   "U": 26065,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 12,
+   "class_sizes_top10": [
+    24457,
+    2384,
+    1351,
+    1312,
+    592,
+    592,
+    331,
+    292,
+    91,
+    60
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    9,
+    13
+   ],
+   "size": 3,
+   "U": 24721,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 11,
+   "class_sizes_top10": [
+    21244,
+    4802,
+    1871,
+    1146,
+    903,
+    624,
+    571,
+    256,
+    60,
+    45
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    9,
+    19
+   ],
+   "size": 3,
+   "U": 26077,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 15,
+   "class_sizes_top10": [
+    24396,
+    2534,
+    1088,
+    886,
+    562,
+    526,
+    442,
+    260,
+    240,
+    238
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    9,
+    20
+   ],
+   "size": 3,
+   "U": 25055,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 15,
+   "class_sizes_top10": [
+    22842,
+    3046,
+    2711,
+    1108,
+    560,
+    391,
+    225,
+    160,
+    158,
+    96
+   ],
+   "realizable_class_sizes": [
+    22842
+   ],
+   "sum_realizable": 22842,
+   "best": 22842,
+   "best_collection": [
+    22842
+   ],
+   "best_witness": "0041210/0504151/5545311/5253031/2224333/0244432",
+   "best_witness_count": 22842,
+   "settled": "sum",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    9,
+    21
+   ],
+   "size": 3,
+   "U": 25823,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 15,
+   "class_sizes_top10": [
+    23650,
+    2136,
+    1934,
+    956,
+    840,
+    596,
+    392,
+    260,
+    232,
+    224
+   ],
+   "realizable_class_sizes": [
+    23650
+   ],
+   "sum_realizable": 23650,
+   "best": 23650,
+   "best_collection": [
+    23650
+   ],
+   "best_witness": "0033321/0103222/1150420/1555042/5253444/4531341",
+   "best_witness_count": 23650,
+   "settled": "sum",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    9,
+    22
+   ],
+   "size": 3,
+   "U": 25781,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 16,
+   "class_sizes_top10": [
+    24090,
+    2574,
+    1564,
+    1075,
+    568,
+    548,
+    392,
+    200,
+    177,
+    79
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    10,
+    13
+   ],
+   "size": 3,
+   "U": 24763,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 13,
+   "class_sizes_top10": [
+    21549,
+    5362,
+    1610,
+    1450,
+    515,
+    372,
+    183,
+    160,
+    128,
+    116
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    10,
+    19
+   ],
+   "size": 3,
+   "U": 26451,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 18,
+   "class_sizes_top10": [
+    25152,
+    1512,
+    1247,
+    1214,
+    512,
+    504,
+    475,
+    396,
+    105,
+    88
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    10,
+    20
+   ],
+   "size": 3,
+   "U": 25641,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 16,
+   "class_sizes_top10": [
+    23929,
+    2776,
+    1524,
+    1244,
+    540,
+    366,
+    355,
+    206,
+    200,
+    112
+   ],
+   "realizable_class_sizes": [
+    23929
+   ],
+   "sum_realizable": 23929,
+   "best": 23929,
+   "best_collection": [
+    23929
+   ],
+   "best_witness": "0555152/2054522/0442432/4144353/1113330/0121300",
+   "best_witness_count": 23929,
+   "settled": "sum",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    13,
+    19
+   ],
+   "size": 3,
+   "U": 25593,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 9,
+   "class_sizes_top10": [
+    22791,
+    4377,
+    1328,
+    1328,
+    580,
+    580,
+    442,
+    52,
+    51
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    13,
+    21
+   ],
+   "size": 3,
+   "U": 24617,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 11,
+   "class_sizes_top10": [
+    21208,
+    4600,
+    1871,
+    1348,
+    1105,
+    607,
+    422,
+    292,
+    45,
+    24
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    13,
+    22
+   ],
+   "size": 3,
+   "U": 24775,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 13,
+   "class_sizes_top10": [
+    21512,
+    5329,
+    1643,
+    1487,
+    552,
+    372,
+    220,
+    156,
+    91,
+    79
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    16,
+    19
+   ],
+   "size": 3,
+   "U": 24501,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 18,
+   "class_sizes_top10": [
+    20576,
+    6558,
+    1166,
+    1166,
+    400,
+    322,
+    322,
+    258,
+    258,
+    156
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    16,
+    20
+   ],
+   "size": 3,
+   "U": 24127,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 16,
+   "class_sizes_top10": [
+    20100,
+    5576,
+    1746,
+    1468,
+    1396,
+    247,
+    218,
+    192,
+    180,
+    131
+   ],
+   "realizable_class_sizes": [
+    20100
+   ],
+   "sum_realizable": 20100,
+   "best": 20100,
+   "best_collection": [
+    20100
+   ],
+   "best_witness": "0001421/5014222/2540420/5554432/1534313/1153330",
+   "best_witness_count": 20100,
+   "settled": "sum",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    20,
+    21
+   ],
+   "size": 3,
+   "U": 25091,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 11,
+   "class_sizes_top10": [
+    22958,
+    2850,
+    2755,
+    1348,
+    427,
+    320,
+    292,
+    225,
+    221,
+    102
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    8,
+    9,
+    20
+   ],
+   "size": 3,
+   "U": 24957,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 11,
+   "class_sizes_top10": [
+    22211,
+    2991,
+    2326,
+    2130,
+    945,
+    280,
+    196,
+    196,
+    127,
+    84
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    8,
+    14,
+    20
+   ],
+   "size": 3,
+   "U": 24366,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 10,
+   "class_sizes_top10": [
+    19507,
+    5695,
+    2326,
+    2326,
+    1071,
+    280,
+    280,
+    22,
+    21,
+    1
+   ],
+   "realizable_class_sizes": [
+    5695
+   ],
+   "sum_realizable": 5695,
+   "best": 5695,
+   "best_collection": [
+    5695
+   ],
+   "best_witness": "0001521/5015222/5502324/5354243/3031444/3311140",
+   "best_witness_count": 5695,
+   "settled": "sum",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    8,
+    16,
+    20
+   ],
+   "size": 3,
+   "U": 24361,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 15,
+   "class_sizes_top10": [
+    20193,
+    4968,
+    1346,
+    1346,
+    980,
+    980,
+    547,
+    525,
+    276,
+    276
+   ],
+   "realizable_class_sizes": [
+    20193
+   ],
+   "sum_realizable": 20193,
+   "best": 20193,
+   "best_collection": [
+    20193
+   ],
+   "best_witness": "0155520/1215232/1130522/1305424/3334140/5344400",
+   "best_witness_count": 20193,
+   "settled": "sum",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    8,
+    9,
+    10
+   ],
+   "size": 4,
+   "U": 24621,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 16,
+   "class_sizes_top10": [
+    22473,
+    2219,
+    2219,
+    1114,
+    1114,
+    555,
+    555,
+    256,
+    256,
+    240
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    8,
+    9,
+    19
+   ],
+   "size": 4,
+   "U": 24533,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 19,
+   "class_sizes_top10": [
+    22072,
+    2534,
+    2324,
+    1088,
+    886,
+    526,
+    427,
+    260,
+    240,
+    238
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    8,
+    9,
+    20
+   ],
+   "size": 4,
+   "U": 24091,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 19,
+   "class_sizes_top10": [
+    21103,
+    2711,
+    2326,
+    1739,
+    1108,
+    720,
+    391,
+    280,
+    280,
+    225
+   ],
+   "realizable_class_sizes": [
+    21103,
+    1739,
+    391
+   ],
+   "sum_realizable": 23233,
+   "best": 22842,
+   "best_collection": [
+    21103,
+    1739
+   ],
+   "best_witness": "0333512/3235111/2252413/2024041/0005434/1055544",
+   "best_witness_count": 22842,
+   "settled": "sum",
+   "joint_sat_calls": 2
+  },
+  {
+   "B": [
+    7,
+    8,
+    9,
+    21
+   ],
+   "size": 4,
+   "U": 24191,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 19,
+   "class_sizes_top10": [
+    21255,
+    2395,
+    2136,
+    1934,
+    956,
+    840,
+    596,
+    224,
+    196,
+    196
+   ],
+   "realizable_class_sizes": [
+    21255,
+    2395,
+    1934
+   ],
+   "sum_realizable": 25584,
+   "best": 23650,
+   "best_collection": [
+    21255,
+    2395
+   ],
+   "best_witness": "0332013/3320111/3522214/5152143/0555404/0054442",
+   "best_witness_count": 23650,
+   "settled": "joint",
+   "joint_sat_calls": 2
+  },
+  {
+   "B": [
+    7,
+    8,
+    9,
+    22
+   ],
+   "size": 4,
+   "U": 24293,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 20,
+   "class_sizes_top10": [
+    21883,
+    2574,
+    2207,
+    1312,
+    1075,
+    548,
+    392,
+    292,
+    276,
+    252
+   ],
+   "realizable_class_sizes": [
+    2207
+   ],
+   "sum_realizable": 2207,
+   "best": 2207,
+   "best_collection": [
+    2207
+   ],
+   "best_witness": "0203001/2320013/3345141/3453511/4045521/4455222",
+   "best_witness_count": 2207,
+   "settled": "sum",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    8,
+    10,
+    19
+   ],
+   "size": 4,
+   "U": 25071,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 26,
+   "class_sizes_top10": [
+    23053,
+    2099,
+    1247,
+    1049,
+    1037,
+    504,
+    475,
+    463,
+    392,
+    317
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    8,
+    10,
+    20
+   ],
+   "size": 4,
+   "U": 24781,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 24,
+   "class_sizes_top10": [
+    22350,
+    2136,
+    1579,
+    1300,
+    924,
+    640,
+    540,
+    355,
+    320,
+    224
+   ],
+   "realizable_class_sizes": [
+    22350,
+    1579,
+    1300
+   ],
+   "sum_realizable": 25229,
+   "best": 23929,
+   "best_collection": [
+    22350,
+    1579
+   ],
+   "best_witness": "0122205/1512055/5325245/3132444/0334041/0033411",
+   "best_witness_count": 23929,
+   "settled": "joint",
+   "joint_sat_calls": 2
+  },
+  {
+   "B": [
+    7,
+    8,
+    10,
+    21
+   ],
+   "size": 4,
+   "U": 24169,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 24,
+   "class_sizes_top10": [
+    21758,
+    2776,
+    2171,
+    1084,
+    1076,
+    540,
+    448,
+    355,
+    270,
+    200
+   ],
+   "realizable_class_sizes": [
+    21758,
+    2171,
+    1084,
+    1076,
+    355
+   ],
+   "sum_realizable": 26444,
+   "best": 23929,
+   "best_collection": [
+    21758,
+    2171
+   ],
+   "best_witness": "0113330/0011304/0214150/2221555/4252354/3423544",
+   "best_witness_count": 23929,
+   "settled": "joint",
+   "joint_sat_calls": 6
+  },
+  {
+   "B": [
+    7,
+    8,
+    10,
+    22
+   ],
+   "size": 4,
+   "U": 25075,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 26,
+   "class_sizes_top10": [
+    23122,
+    2030,
+    1274,
+    1058,
+    860,
+    512,
+    504,
+    475,
+    354,
+    254
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    8,
+    19,
+    20
+   ],
+   "size": 4,
+   "U": 25277,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 17,
+   "class_sizes_top10": [
+    22707,
+    1899,
+    1899,
+    1107,
+    1107,
+    663,
+    427,
+    427,
+    281,
+    221
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    8,
+    19,
+    21
+   ],
+   "size": 4,
+   "U": 24433,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 23,
+   "class_sizes_top10": [
+    21912,
+    2534,
+    2484,
+    930,
+    886,
+    562,
+    442,
+    391,
+    222,
+    177
+   ],
+   "realizable_class_sizes": [
+    21912,
+    930,
+    886,
+    391
+   ],
+   "sum_realizable": 24119,
+   "best": 23189,
+   "best_collection": [
+    21912,
+    886,
+    391
+   ],
+   "best_witness": "0155540/1505444/1134142/1353425/3230212/3300022",
+   "best_witness_count": 23189,
+   "settled": "joint",
+   "joint_sat_calls": 5
+  },
+  {
+   "B": [
+    7,
+    8,
+    19,
+    22
+   ],
+   "size": 4,
+   "U": 24999,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 26,
+   "class_sizes_top10": [
+    22888,
+    2264,
+    1214,
+    1214,
+    1041,
+    512,
+    504,
+    355,
+    310,
+    298
+   ],
+   "realizable_class_sizes": [
+    22888,
+    1041
+   ],
+   "sum_realizable": 23929,
+   "best": 23929,
+   "best_collection": [
+    22888,
+    1041
+   ],
+   "best_witness": "0151322/0013032/0504333/2044435/4214552/2111455",
+   "best_witness_count": 23929,
+   "settled": "sum",
+   "joint_sat_calls": 1
+  },
+  {
+   "B": [
+    7,
+    8,
+    20,
+    21
+   ],
+   "size": 4,
+   "U": 24039,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 17,
+   "class_sizes_top10": [
+    21059,
+    2755,
+    2130,
+    1899,
+    1152,
+    720,
+    427,
+    236,
+    225,
+    221
+   ],
+   "realizable_class_sizes": [
+    21059,
+    2130
+   ],
+   "sum_realizable": 23189,
+   "best": 23189,
+   "best_collection": [
+    21059,
+    2130
+   ],
+   "best_witness": "0222432/4024303/4453331/4515312/5250141/5500011",
+   "best_witness_count": 23189,
+   "settled": "sum",
+   "joint_sat_calls": 1
+  },
+  {
+   "B": [
+    7,
+    8,
+    20,
+    22
+   ],
+   "size": 4,
+   "U": 24841,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 24,
+   "class_sizes_top10": [
+    22346,
+    1934,
+    1744,
+    1304,
+    920,
+    640,
+    548,
+    392,
+    392,
+    260
+   ],
+   "realizable_class_sizes": [
+    22346,
+    1304
+   ],
+   "sum_realizable": 23650,
+   "best": 23650,
+   "best_collection": [
+    22346,
+    1304
+   ],
+   "best_witness": "0012143/0201404/3054442/2305422/3331525/5311155",
+   "best_witness_count": 23650,
+   "settled": "sum",
+   "joint_sat_calls": 1
+  },
+  {
+   "B": [
+    7,
+    8,
+    21,
+    22
+   ],
+   "size": 4,
+   "U": 24465,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 18,
+   "class_sizes_top10": [
+    22073,
+    2384,
+    2384,
+    1116,
+    1116,
+    592,
+    592,
+    235,
+    235,
+    196
+   ],
+   "realizable_class_sizes": [
+    22073,
+    1116,
+    1116
+   ],
+   "sum_realizable": 24305,
+   "best": 23189,
+   "best_collection": [
+    22073,
+    1116
+   ],
+   "best_witness": "0222311/3023101/3341215/3424153/4440555/5400052",
+   "best_witness_count": 23189,
+   "settled": "joint",
+   "joint_sat_calls": 2
+  },
+  {
+   "B": [
+    7,
+    9,
+    13,
+    19
+   ],
+   "size": 4,
+   "U": 24153,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 19,
+   "class_sizes_top10": [
+    20682,
+    3714,
+    1871,
+    1088,
+    886,
+    663,
+    562,
+    526,
+    442,
+    260
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    9,
+    19,
+    21
+   ],
+   "size": 4,
+   "U": 24889,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 31,
+   "class_sizes_top10": [
+    22364,
+    1820,
+    1820,
+    772,
+    772,
+    714,
+    514,
+    514,
+    316,
+    316
+   ],
+   "realizable_class_sizes": [
+    22364,
+    772,
+    772,
+    514,
+    514
+   ],
+   "sum_realizable": 24936,
+   "best": 23650,
+   "best_collection": [
+    22364,
+    772,
+    514
+   ],
+   "best_witness": "0434410/3044111/3354213/3525421/5150232/5500022",
+   "best_witness_count": 23650,
+   "settled": "joint",
+   "joint_sat_calls": 6
+  },
+  {
+   "B": [
+    7,
+    9,
+    19,
+    22
+   ],
+   "size": 4,
+   "U": 24743,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 34,
+   "class_sizes_top10": [
+    22620,
+    2364,
+    1442,
+    1004,
+    835,
+    474,
+    466,
+    412,
+    334,
+    240
+   ],
+   "realizable_class_sizes": [
+    22620,
+    835,
+    474
+   ],
+   "sum_realizable": 23929,
+   "best": 23929,
+   "best_collection": [
+    22620,
+    835,
+    474
+   ],
+   "best_witness": "0014544/0151404/1112030/3122205/3342355/3425235",
+   "best_witness_count": 23929,
+   "settled": "sum",
+   "joint_sat_calls": 2
+  },
+  {
+   "B": [
+    7,
+    9,
+    20,
+    22
+   ],
+   "size": 4,
+   "U": 23977,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 32,
+   "class_sizes_top10": [
+    21435,
+    2526,
+    2526,
+    1044,
+    1044,
+    520,
+    520,
+    363,
+    363,
+    185
+   ],
+   "realizable_class_sizes": [
+    21435,
+    1044,
+    1044,
+    363,
+    363
+   ],
+   "sum_realizable": 24249,
+   "best": 22842,
+   "best_collection": [
+    21435,
+    1044,
+    363
+   ],
+   "best_witness": "0033325/0503202/5535422/5154442/1113404/2101341",
+   "best_witness_count": 22842,
+   "settled": "joint",
+   "joint_sat_calls": 6
+  },
+  {
+   "B": [
+    7,
+    10,
+    13,
+    19
+   ],
+   "size": 4,
+   "U": 24287,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 23,
+   "class_sizes_top10": [
+    21037,
+    4115,
+    1382,
+    1247,
+    1214,
+    512,
+    475,
+    396,
+    372,
+    132
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    10,
+    19,
+    22
+   ],
+   "size": 4,
+   "U": 25377,
+   "dangerous": true,
+   "orbit_size": 1,
+   "nclasses": 40,
+   "class_sizes_top10": [
+    23566,
+    1150,
+    1150,
+    1150,
+    1150,
+    436,
+    436,
+    436,
+    436,
+    362
+   ],
+   "realizable_class_sizes": [
+    23566
+   ],
+   "sum_realizable": 23566,
+   "best": 23566,
+   "best_collection": [
+    23566
+   ],
+   "best_witness": "0210422/2100042/3230534/3305341/3152544/1115554",
+   "best_witness_count": 23566,
+   "settled": "sum",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    7,
+    8,
+    10,
+    19,
+    20
+   ],
+   "size": 5,
+   "U": 24147,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 38,
+   "class_sizes_top10": [
+    21309,
+    1744,
+    1579,
+    1041,
+    1037,
+    894,
+    520,
+    504,
+    392,
+    355
+   ],
+   "realizable_class_sizes": [
+    21309,
+    1579,
+    1041,
+    1037,
+    263
+   ],
+   "sum_realizable": 25229,
+   "best": 23929,
+   "best_collection": [
+    21309,
+    1579,
+    1041
+   ],
+   "best_witness": "0511404/3051144/3310124/3431232/5352220/5545200",
+   "best_witness_count": 23929,
+   "settled": "joint",
+   "joint_sat_calls": 5
+  },
+  {
+   "B": [
+    7,
+    8,
+    10,
+    19,
+    22
+   ],
+   "size": 5,
+   "U": 24125,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 56,
+   "class_sizes_top10": [
+    21638,
+    1928,
+    1150,
+    982,
+    979,
+    814,
+    436,
+    436,
+    436,
+    336
+   ],
+   "realizable_class_sizes": [
+    21638,
+    1928,
+    982,
+    814,
+    436,
+    38,
+    21
+   ],
+   "sum_realizable": 25857,
+   "best": 23929,
+   "best_collection": [
+    21638,
+    982,
+    814,
+    436,
+    38,
+    21
+   ],
+   "best_witness": "0033355/0203505/4015254/3401542/4413122/4111232",
+   "best_witness_count": 23929,
+   "settled": "joint",
+   "joint_sat_calls": 11
+  },
+  {
+   "B": [
+    7,
+    8,
+    10,
+    20,
+    22
+   ],
+   "size": 5,
+   "U": 23947,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 50,
+   "class_sizes_top10": [
+    21134,
+    1820,
+    1486,
+    1230,
+    746,
+    742,
+    544,
+    474,
+    466,
+    334
+   ],
+   "realizable_class_sizes": [
+    21134,
+    1486,
+    1230,
+    746,
+    742,
+    474,
+    466,
+    93,
+    48,
+    40,
+    30,
+    26
+   ],
+   "sum_realizable": 26515,
+   "best": 23929,
+   "best_collection": [
+    21134,
+    1486,
+    742,
+    474,
+    93
+   ],
+   "best_witness": "0222430/0023243/0133354/1113555/4125150/4412504",
+   "best_witness_count": 23929,
+   "settled": "joint",
+   "joint_sat_calls": 21
+  }
+ ]
+}

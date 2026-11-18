@@ -1,0 +1,30 @@
+{
+ "n": 1,
+ "M": 3,
+ "computed_with_threshold": 3,
+ "sets": [
+  {
+   "B": [],
+   "size": 0,
+   "U": 3,
+   "dangerous": false,
+   "orbit_size": 1,
+   "nclasses": 1,
+   "class_sizes_top10": [
+    3
+   ],
+   "realizable_class_sizes": [
+    3
+   ],
+   "sum_realizable": 3,
+   "best": 3,
+   "best_collection": [
+    3
+   ],
+   "best_witness": "001/011",
+   "best_witness_count": 3,
+   "settled": "sum",
+   "joint_sat_calls": 0
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "n": 1,
+ "L": 3,
+ "T": 3,
+ "nblocks": 2,
+ "nedges": 2,
+ "edges_per_block": [
+  1,
+  1
+ ],
+ "levels": [
+  {
+   "size": 0,
+   "count_U_ge_L": 1,
+   "count_U_gt_L": 0
+  },
+  {
+   "size": 1,
+   "count_U_ge_L": 0,
+   "count_U_gt_L": 0
+  }
+ ],
+ "nU": 0,
+ "records": [
+  {
+   "B": [],
+   "U": 3,
+   "nclasses": 1,
+   "class_sizes": [
+    3
+   ],
+   "realizable": [
+    3
+   ],
+   "fullb": 3,
+   "best": 3,
+   "best_collection": [
+    3
+   ],
+   "best_collection_idx": [
+    0
+   ],
+   "best_witness": "001/011",
+   "best_witness_count": 3,
+   "hits": [
+    {
+     "total": 3,
+     "idx": [
+      0
+     ],
+     "sizes": [
+      3
+     ],
+     "witness": "001/011",
+     "witness_count": 3
+    }
+   ],
+   "single_unsat_rechecked": 0,
+   "joint_calls": 0,
+   "joint_unsat": 0,
+   "settled": "fullb=L",
+   "strict": false,
+   "orbit_size": 1
+  }
+ ],
+ "seconds": 0.01847386360168457
+}

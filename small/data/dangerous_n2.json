@@ -1,0 +1,52 @@
+{
+ "n": 2,
+ "M": 10,
+ "computed_with_threshold": 10,
+ "sets": [
+  {
+   "B": [],
+   "size": 0,
+   "U": 11,
+   "dangerous": true,
+   "orbit_size": 1,
+   "nclasses": 1,
+   "class_sizes_top10": [
+    11
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    1
+   ],
+   "size": 1,
+   "U": 10,
+   "dangerous": false,
+   "orbit_size": 2,
+   "nclasses": 2,
+   "class_sizes_top10": [
+    10,
+    1
+   ],
+   "realizable_class_sizes": [
+    10
+   ],
+   "sum_realizable": 10,
+   "best": 10,
+   "best_collection": [
+    10
+   ],
+   "best_witness": "0100/1120/1222",
+   "best_witness_count": 10,
+   "settled": "sum",
+   "joint_sat_calls": 0
+  }
+ ]
+}

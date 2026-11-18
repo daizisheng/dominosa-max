@@ -1,0 +1,33 @@
+# binaries built by "make"
+count/dc
+count/place
+count/classes
+count/split
+count/cnt
+count/cntf
+count/tilings
+pipeline-A/bsearch
+pipeline-A/ub
+pipeline-A/ubv
+pipeline-A/ubr
+pipeline-B/code/tile
+pipeline-B/code/count
+pipeline-B/code/dset
+pipeline-B/code/comp
+pipeline-B/code/mcheck
+pipeline-B/code/check_arrays
+pipeline-B/code/drat-trim
+small/cnt
+small/bfa
+small/bfb
+small/bb
+small/bb3
+*.o
+
+# generated files (tiling tables, class structures, CNFs, proofs, results of reruns)
+work/
+__pycache__/
+run_all_logs/
+*.pyc
+*.cnf
+*.drat

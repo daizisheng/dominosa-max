@@ -1,0 +1,627 @@
+{
+ "n": 5,
+ "L": 23929,
+ "T": 31529,
+ "nblocks": 30,
+ "nedges": 161568,
+ "edges_per_block": [
+  9539,
+  5617,
+  7057,
+  7057,
+  5617,
+  9539,
+  4381,
+  2078,
+  2760,
+  2760,
+  2078,
+  4381,
+  7775,
+  4428,
+  5717,
+  5717,
+  4428,
+  7775,
+  4381,
+  2078,
+  2760,
+  2760,
+  2078,
+  4381,
+  9539,
+  5617,
+  7057,
+  7057,
+  5617,
+  9539
+ ],
+ "levels": [
+  {
+   "size": 0,
+   "count_U_ge_L": 1,
+   "count_U_gt_L": 1
+  },
+  {
+   "size": 1,
+   "count_U_ge_L": 7,
+   "count_U_gt_L": 7
+  },
+  {
+   "size": 2,
+   "count_U_ge_L": 35,
+   "count_U_gt_L": 35
+  },
+  {
+   "size": 3,
+   "count_U_ge_L": 48,
+   "count_U_gt_L": 48
+  },
+  {
+   "size": 4,
+   "count_U_ge_L": 21,
+   "count_U_gt_L": 21
+  },
+  {
+   "size": 5,
+   "count_U_ge_L": 3,
+   "count_U_gt_L": 3
+  },
+  {
+   "size": 6,
+   "count_U_ge_L": 0,
+   "count_U_gt_L": 0
+  }
+ ],
+ "nU": 0,
+ "records": [
+  {
+   "B": [
+    7
+   ],
+   "U": 29451,
+   "nclasses": 3,
+   "class_sizes": [
+    29076,
+    1770,
+    683
+   ],
+   "realizable": [],
+   "fullb": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_collection_idx": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "hits": [],
+   "single_unsat_rechecked": 3,
+   "joint_calls": 0,
+   "joint_unsat": 0,
+   "settled": "no class realizable",
+   "strict": true,
+   "orbit_size": 4
+  },
+  {
+   "B": [
+    1,
+    21
+   ],
+   "U": 24258,
+   "nclasses": 6,
+   "class_sizes": [
+    21587,
+    6221,
+    2268,
+    1130,
+    287,
+    36
+   ],
+   "realizable": [],
+   "fullb": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_collection_idx": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "hits": [],
+   "single_unsat_rechecked": 6,
+   "joint_calls": 0,
+   "joint_unsat": 0,
+   "settled": "no class realizable",
+   "strict": true,
+   "orbit_size": 4
+  },
+  {
+   "B": [
+    6,
+    19
+   ],
+   "U": 25408,
+   "nclasses": 5,
+   "class_sizes": [
+    24284,
+    4792,
+    1770,
+    411,
+    272
+   ],
+   "realizable": [],
+   "fullb": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_collection_idx": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "hits": [],
+   "single_unsat_rechecked": 5,
+   "joint_calls": 0,
+   "joint_unsat": 0,
+   "settled": "no class realizable",
+   "strict": true,
+   "orbit_size": 4
+  },
+  {
+   "B": [
+    7,
+    16
+   ],
+   "U": 25539,
+   "nclasses": 8,
+   "class_sizes": [
+    22064,
+    6972,
+    1566,
+    372,
+    311,
+    192,
+    40,
+    12
+   ],
+   "realizable": [],
+   "fullb": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_collection_idx": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "hits": [],
+   "single_unsat_rechecked": 8,
+   "joint_calls": 0,
+   "joint_unsat": 0,
+   "settled": "no class realizable",
+   "strict": true,
+   "orbit_size": 4
+  },
+  {
+   "B": [
+    8,
+    20
+   ],
+   "U": 27117,
+   "nclasses": 7,
+   "class_sizes": [
+    25202,
+    2326,
+    2326,
+    1072,
+    280,
+    280,
+    43
+   ],
+   "realizable": [],
+   "fullb": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_collection_idx": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "hits": [],
+   "single_unsat_rechecked": 7,
+   "joint_calls": 0,
+   "joint_unsat": 0,
+   "settled": "no class realizable",
+   "strict": true,
+   "orbit_size": 2
+  },
+  {
+   "B": [
+    6,
+    7,
+    10
+   ],
+   "U": 24391,
+   "nclasses": 11,
+   "class_sizes": [
+    22890,
+    4021,
+    1610,
+    1310,
+    555,
+    495,
+    300,
+    128,
+    128,
+    60,
+    32
+   ],
+   "realizable": [],
+   "fullb": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_collection_idx": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "hits": [],
+   "single_unsat_rechecked": 11,
+   "joint_calls": 0,
+   "joint_unsat": 0,
+   "settled": "no class realizable",
+   "strict": true,
+   "orbit_size": 4
+  },
+  {
+   "B": [
+    6,
+    9,
+    10
+   ],
+   "U": 24146,
+   "nclasses": 10,
+   "class_sizes": [
+    22027,
+    4334,
+    2473,
+    1146,
+    623,
+    301,
+    242,
+    196,
+    127,
+    60
+   ],
+   "realizable": [],
+   "fullb": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_collection_idx": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "hits": [],
+   "single_unsat_rechecked": 10,
+   "joint_calls": 0,
+   "joint_unsat": 0,
+   "settled": "no class realizable",
+   "strict": true,
+   "orbit_size": 4
+  },
+  {
+   "B": [
+    7,
+    8,
+    10
+   ],
+   "U": 26141,
+   "nclasses": 12,
+   "class_sizes": [
+    24692,
+    2219,
+    1354,
+    1114,
+    555,
+    555,
+    496,
+    256,
+    128,
+    67,
+    61,
+    32
+   ],
+   "realizable": [],
+   "fullb": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_collection_idx": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "hits": [],
+   "single_unsat_rechecked": 12,
+   "joint_calls": 0,
+   "joint_unsat": 0,
+   "settled": "no class realizable",
+   "strict": true,
+   "orbit_size": 4
+  },
+  {
+   "B": [
+    7,
+    9,
+    20
+   ],
+   "U": 25055,
+   "nclasses": 15,
+   "class_sizes": [
+    22842,
+    3046,
+    2711,
+    1108,
+    560,
+    391,
+    225,
+    160,
+    158,
+    96,
+    64,
+    63,
+    38,
+    36,
+    31
+   ],
+   "realizable": [
+    22842
+   ],
+   "fullb": 22842,
+   "best": 22842,
+   "best_collection": [
+    22842
+   ],
+   "best_collection_idx": [
+    0
+   ],
+   "best_witness": "0041210/0504151/5545311/5253031/2224333/0244432",
+   "best_witness_count": 22842,
+   "hits": [],
+   "single_unsat_rechecked": 14,
+   "joint_calls": 0,
+   "joint_unsat": 0,
+   "settled": "fullb<L",
+   "strict": true,
+   "orbit_size": 4
+  },
+  {
+   "B": [
+    7,
+    16,
+    19
+   ],
+   "U": 24501,
+   "nclasses": 18,
+   "class_sizes": [
+    20576,
+    6558,
+    1166,
+    1166,
+    400,
+    322,
+    322,
+    258,
+    258,
+    156,
+    156,
+    53,
+    50,
+    36,
+    34,
+    6,
+    6,
+    6
+   ],
+   "realizable": [],
+   "fullb": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_collection_idx": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "hits": [],
+   "single_unsat_rechecked": 18,
+   "joint_calls": 0,
+   "joint_unsat": 0,
+   "settled": "no class realizable",
+   "strict": true,
+   "orbit_size": 2
+  },
+  {
+   "B": [
+    7,
+    8,
+    9,
+    21
+   ],
+   "U": 24191,
+   "nclasses": 19,
+   "class_sizes": [
+    21255,
+    2395,
+    2136,
+    1934,
+    956,
+    840,
+    596,
+    224,
+    196,
+    196,
+    196,
+    190,
+    127,
+    105,
+    64,
+    56,
+    32,
+    20,
+    11
+   ],
+   "realizable": [
+    21255,
+    2395,
+    1934
+   ],
+   "fullb": 25584,
+   "best": 23650,
+   "best_collection": [
+    21255,
+    2395
+   ],
+   "best_collection_idx": [
+    0,
+    1
+   ],
+   "best_witness": "0332013/3320111/3522214/5152143/0555404/0054442",
+   "best_witness_count": 23650,
+   "hits": [],
+   "single_unsat_rechecked": 16,
+   "joint_calls": 2,
+   "joint_unsat": 1,
+   "settled": "joint B&B",
+   "strict": true,
+   "orbit_size": 4
+  },
+  {
+   "B": [
+    7,
+    8,
+    20,
+    21
+   ],
+   "U": 24039,
+   "nclasses": 17,
+   "class_sizes": [
+    21059,
+    2755,
+    2130,
+    1899,
+    1152,
+    720,
+    427,
+    236,
+    225,
+    221,
+    196,
+    196,
+    96,
+    84,
+    59,
+    43,
+    31
+   ],
+   "realizable": [
+    21059,
+    2130
+   ],
+   "fullb": 23189,
+   "best": 23189,
+   "best_collection": [
+    21059,
+    2130
+   ],
+   "best_collection_idx": [
+    0,
+    2
+   ],
+   "best_witness": "0222432/4024303/4453331/4515312/5250141/5500011",
+   "best_witness_count": 23189,
+   "hits": [],
+   "single_unsat_rechecked": 15,
+   "joint_calls": 1,
+   "joint_unsat": 0,
+   "settled": "fullb<L",
+   "strict": true,
+   "orbit_size": 4
+  },
+  {
+   "B": [
+    7,
+    8,
+    10,
+    19,
+    20
+   ],
+   "U": 24147,
+   "nclasses": 38,
+   "class_sizes": [
+    21309,
+    1744,
+    1579,
+    1041,
+    1037,
+    894,
+    520,
+    504,
+    392,
+    355,
+    320,
+    263,
+    206,
+    177,
+    155,
+    143,
+    120,
+    120,
+    80,
+    72,
+    54,
+    47,
+    44,
+    44,
+    36,
+    35,
+    33,
+    33,
+    32,
+    30,
+    26,
+    23,
+    15,
+    12,
+    12,
+    11,
+    6,
+    5
+   ],
+   "realizable": [
+    21309,
+    1579,
+    1041,
+    1037,
+    263
+   ],
+   "fullb": 25229,
+   "best": 23929,
+   "best_collection": [
+    21309,
+    1579,
+    1041
+   ],
+   "best_collection_idx": [
+    0,
+    2,
+    3
+   ],
+   "best_witness": "0511404/3051144/3310124/3431232/5352220/5545200",
+   "best_witness_count": 23929,
+   "hits": [
+    {
+     "total": 23929,
+     "idx": [
+      0,
+      2,
+      3
+     ],
+     "sizes": [
+      21309,
+      1579,
+      1041
+     ],
+     "witness": "0511404/3051144/3310124/3431232/5352220/5545200",
+     "witness_count": 23929
+    }
+   ],
+   "single_unsat_rechecked": 33,
+   "joint_calls": 5,
+   "joint_unsat": 3,
+   "settled": "joint B&B",
+   "strict": true,
+   "orbit_size": 4
+  }
+ ],
+ "seconds": 407.0923249721527
+}

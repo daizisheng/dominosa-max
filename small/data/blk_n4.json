@@ -1,0 +1,243 @@
+{
+ "n": 4,
+ "L": 1012,
+ "T": 1183,
+ "nblocks": 20,
+ "nedges": 4202,
+ "edges_per_block": [
+  351,
+  153,
+  285,
+  153,
+  351,
+  231,
+  80,
+  186,
+  80,
+  231,
+  231,
+  80,
+  186,
+  80,
+  231,
+  351,
+  153,
+  285,
+  153,
+  351
+ ],
+ "levels": [
+  {
+   "size": 0,
+   "count_U_ge_L": 1,
+   "count_U_gt_L": 1
+  },
+  {
+   "size": 1,
+   "count_U_ge_L": 2,
+   "count_U_gt_L": 2
+  },
+  {
+   "size": 2,
+   "count_U_ge_L": 3,
+   "count_U_gt_L": 3
+  },
+  {
+   "size": 3,
+   "count_U_ge_L": 0,
+   "count_U_gt_L": 0
+  }
+ ],
+ "nU": 0,
+ "records": [
+  {
+   "B": [],
+   "U": 1183,
+   "nclasses": 1,
+   "class_sizes": [
+    1183
+   ],
+   "realizable": [],
+   "fullb": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_collection_idx": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "hits": [],
+   "single_unsat_rechecked": 1,
+   "joint_calls": 0,
+   "joint_unsat": 0,
+   "settled": "no class realizable",
+   "strict": true,
+   "orbit_size": 1
+  },
+  {
+   "B": [
+    1
+   ],
+   "U": 1030,
+   "nclasses": 2,
+   "class_sizes": [
+    1014,
+    169
+   ],
+   "realizable": [],
+   "fullb": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_collection_idx": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "hits": [],
+   "single_unsat_rechecked": 2,
+   "joint_calls": 0,
+   "joint_unsat": 0,
+   "settled": "no class realizable",
+   "strict": true,
+   "orbit_size": 4
+  },
+  {
+   "B": [
+    6
+   ],
+   "U": 1103,
+   "nclasses": 3,
+   "class_sizes": [
+    1086,
+    81,
+    16
+   ],
+   "realizable": [],
+   "fullb": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_collection_idx": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "hits": [],
+   "single_unsat_rechecked": 3,
+   "joint_calls": 0,
+   "joint_unsat": 0,
+   "settled": "no class realizable",
+   "strict": true,
+   "orbit_size": 4
+  },
+  {
+   "B": [
+    6,
+    8
+   ],
+   "U": 1051,
+   "nclasses": 7,
+   "class_sizes": [
+    1012,
+    60,
+    60,
+    21,
+    14,
+    14,
+    2
+   ],
+   "realizable": [
+    1012
+   ],
+   "fullb": 1012,
+   "best": 1012,
+   "best_collection": [
+    1012
+   ],
+   "best_collection_idx": [
+    0
+   ],
+   "best_witness": "000133/301113/021241/222404/324344",
+   "best_witness_count": 1012,
+   "hits": [
+    {
+     "total": 1012,
+     "idx": [
+      0
+     ],
+     "sizes": [
+      1012
+     ],
+     "witness": "000133/301113/021241/222404/324344",
+     "witness_count": 1012
+    }
+   ],
+   "single_unsat_rechecked": 6,
+   "joint_calls": 0,
+   "joint_unsat": 0,
+   "settled": "fullb=L",
+   "strict": true,
+   "orbit_size": 2
+  },
+  {
+   "B": [
+    6,
+    11
+   ],
+   "U": 1053,
+   "nclasses": 5,
+   "class_sizes": [
+    1021,
+    65,
+    65,
+    16,
+    16
+   ],
+   "realizable": [],
+   "fullb": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_collection_idx": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "hits": [],
+   "single_unsat_rechecked": 5,
+   "joint_calls": 0,
+   "joint_unsat": 0,
+   "settled": "no class realizable",
+   "strict": true,
+   "orbit_size": 2
+  },
+  {
+   "B": [
+    6,
+    13
+   ],
+   "U": 1035,
+   "nclasses": 7,
+   "class_sizes": [
+    999,
+    76,
+    76,
+    11,
+    11,
+    5,
+    5
+   ],
+   "realizable": [
+    999
+   ],
+   "fullb": 999,
+   "best": 999,
+   "best_collection": [
+    999
+   ],
+   "best_collection_idx": [
+    0
+   ],
+   "best_witness": "011122/001202/042423/434130/441333",
+   "best_witness_count": 999,
+   "hits": [],
+   "single_unsat_rechecked": 6,
+   "joint_calls": 0,
+   "joint_unsat": 0,
+   "settled": "fullb<L",
+   "strict": true,
+   "orbit_size": 2
+  }
+ ],
+ "seconds": 6.34038519859314
+}

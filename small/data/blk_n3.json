@@ -1,0 +1,108 @@
+{
+ "n": 3,
+ "L": 88,
+ "T": 95,
+ "nblocks": 12,
+ "nedges": 226,
+ "edges_per_block": [
+  29,
+  19,
+  19,
+  29,
+  11,
+  6,
+  6,
+  11,
+  29,
+  19,
+  19,
+  29
+ ],
+ "levels": [
+  {
+   "size": 0,
+   "count_U_ge_L": 1,
+   "count_U_gt_L": 1
+  },
+  {
+   "size": 1,
+   "count_U_ge_L": 1,
+   "count_U_gt_L": 1
+  },
+  {
+   "size": 2,
+   "count_U_ge_L": 0,
+   "count_U_gt_L": 0
+  }
+ ],
+ "nU": 0,
+ "records": [
+  {
+   "B": [],
+   "U": 95,
+   "nclasses": 1,
+   "class_sizes": [
+    95
+   ],
+   "realizable": [],
+   "fullb": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_collection_idx": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "hits": [],
+   "single_unsat_rechecked": 1,
+   "joint_calls": 0,
+   "joint_unsat": 0,
+   "settled": "no class realizable",
+   "strict": true,
+   "orbit_size": 1
+  },
+  {
+   "B": [
+    5
+   ],
+   "U": 89,
+   "nclasses": 3,
+   "class_sizes": [
+    88,
+    6,
+    1
+   ],
+   "realizable": [
+    88
+   ],
+   "fullb": 88,
+   "best": 88,
+   "best_collection": [
+    88
+   ],
+   "best_collection_idx": [
+    0
+   ],
+   "best_witness": "00012/20111/22313/23330",
+   "best_witness_count": 88,
+   "hits": [
+    {
+     "total": 88,
+     "idx": [
+      0
+     ],
+     "sizes": [
+      88
+     ],
+     "witness": "00012/20111/22313/23330",
+     "witness_count": 88
+    }
+   ],
+   "single_unsat_rechecked": 2,
+   "joint_calls": 0,
+   "joint_unsat": 0,
+   "settled": "fullb=L",
+   "strict": true,
+   "orbit_size": 2
+  }
+ ],
+ "seconds": 0.09537100791931152
+}

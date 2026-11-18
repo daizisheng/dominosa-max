@@ -1,0 +1,161 @@
+{
+ "n": 4,
+ "M": 1012,
+ "computed_with_threshold": 1012,
+ "sets": [
+  {
+   "B": [],
+   "size": 0,
+   "U": 1183,
+   "dangerous": true,
+   "orbit_size": 1,
+   "nclasses": 1,
+   "class_sizes_top10": [
+    1183
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    1
+   ],
+   "size": 1,
+   "U": 1030,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 2,
+   "class_sizes_top10": [
+    1014,
+    169
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6
+   ],
+   "size": 1,
+   "U": 1103,
+   "dangerous": true,
+   "orbit_size": 4,
+   "nclasses": 3,
+   "class_sizes_top10": [
+    1086,
+    81,
+    16
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    8
+   ],
+   "size": 2,
+   "U": 1051,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 7,
+   "class_sizes_top10": [
+    1012,
+    60,
+    60,
+    21,
+    14,
+    14,
+    2
+   ],
+   "realizable_class_sizes": [
+    1012
+   ],
+   "sum_realizable": 1012,
+   "best": 1012,
+   "best_collection": [
+    1012
+   ],
+   "best_witness": "000133/301113/021241/222404/324344",
+   "best_witness_count": 1012,
+   "settled": "sum",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    11
+   ],
+   "size": 2,
+   "U": 1053,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 5,
+   "class_sizes_top10": [
+    1021,
+    65,
+    65,
+    16,
+    16
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    6,
+    13
+   ],
+   "size": 2,
+   "U": 1035,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 7,
+   "class_sizes_top10": [
+    999,
+    76,
+    76,
+    11,
+    11,
+    5,
+    5
+   ],
+   "realizable_class_sizes": [
+    999
+   ],
+   "sum_realizable": 999,
+   "best": 999,
+   "best_collection": [
+    999
+   ],
+   "best_witness": "011122/001202/042423/434130/441333",
+   "best_witness_count": 999,
+   "settled": "sum",
+   "joint_sat_calls": 0
+  }
+ ]
+}

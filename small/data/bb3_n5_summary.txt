@@ -1,0 +1,5 @@
+slices done 4000 missing 0
+nodes 16238006921 leaves 70376
+weighted histogram (all arrays, >= THR): {23929: 101341440}
+max 23929 orbits at M 35188
+block-method orbits 35188 bb3 subset of block: True equal: True

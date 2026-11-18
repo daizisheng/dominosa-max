@@ -1,0 +1,53 @@
+{
+ "n": 3,
+ "M": 88,
+ "computed_with_threshold": 88,
+ "sets": [
+  {
+   "B": [],
+   "size": 0,
+   "U": 95,
+   "dangerous": true,
+   "orbit_size": 1,
+   "nclasses": 1,
+   "class_sizes_top10": [
+    95
+   ],
+   "realizable_class_sizes": [],
+   "sum_realizable": 0,
+   "best": 0,
+   "best_collection": [],
+   "best_witness": null,
+   "best_witness_count": null,
+   "settled": "none",
+   "joint_sat_calls": 0
+  },
+  {
+   "B": [
+    5
+   ],
+   "size": 1,
+   "U": 89,
+   "dangerous": true,
+   "orbit_size": 2,
+   "nclasses": 3,
+   "class_sizes_top10": [
+    88,
+    6,
+    1
+   ],
+   "realizable_class_sizes": [
+    88
+   ],
+   "sum_realizable": 88,
+   "best": 88,
+   "best_collection": [
+    88
+   ],
+   "best_witness": "00012/20111/22313/23330",
+   "best_witness_count": 88,
+   "settled": "sum",
+   "joint_sat_calls": 0
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "n": 1,
+ "L": 3,
+ "histogram_all_arrays": {
+  "3": 4
+ },
+ "orbits_full_group": {
+  "3": 1
+ },
+ "orbit_reps": {
+  "3": [
+   "001/011"
+  ]
+ },
+ "perB": [
+  {
+   "B": [],
+   "orbit_size": 1,
+   "canonical_arrays": 2,
+   "by_count": {
+    "3": 2
+   },
+   "arrays": [
+    "001/011 3",
+    "011/001 3"
+   ]
+  }
+ ],
+ "split": null
+}
